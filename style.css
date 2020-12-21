@@ -1,0 +1,12 @@
+body{
+    background-color: lightblue;
+  }
+
+  h1{
+      text-align: center;
+  }
+
+  .container{
+      display: flex;
+      justify-content: center;
+  }
